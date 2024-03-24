@@ -1,6 +1,6 @@
 # Glowing Border Effect - ReactJs
 
-![alt text](https://raw.githubusercontent.com/MShahzaib3242/glowingborder/master/public/glowing.gif)
+![alt text](https://raw.githubusercontent.com/MShahzaib3242/glowingborder/master/public/glowingGif.gif)
 
 In the project directory, you can run:
 
