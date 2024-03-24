@@ -1,9 +1,4 @@
 
-@font-face {
-	font-family: 'Geist Sans';
-	src: url('https://assets.codepen.io/605876/GeistVF.ttf') format('truetype');
-  }
-  
   :root {
 	--bg: hsl(246 44% 7%);
 	--border: hsl(280 10% 50% / 1);
@@ -231,29 +226,6 @@
 	align-items: center;
   }
   
-  .header svg {
-	--count: 4;
-	width: 106px;
-  }
-  
-  .header svg:nth-of-type(2),
-  .header svg:nth-of-type(3),
-  .header svg:nth-of-type(4) {
-	position: absolute;
-	z-index: calc(var(--count) - var(--index));
-	translate: calc(var(--index) * 30%) 0;
-	opacity: calc(var(--count) / (2 * (var(--index) * 10)));
-  }
-  
-  .header svg:nth-of-type(2) {
-	--index: 1;
-  }
-  .header svg:nth-of-type(3) {
-	--index: 2;
-  }
-  .header svg:nth-of-type(4) {
-	--index: 3;
-  }
   
   .badge svg {
 	width: 16px;
