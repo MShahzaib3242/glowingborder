@@ -4,6 +4,8 @@
 
 ![alt text](https://raw.githubusercontent.com/MShahzaib3242/glowingborder/master/public/glowingGif.gif)
 
+View [LIVE DEMO](https://glowingborder.vercel.app/)
+
 In the project directory, you can run:
 
 ### `npm start`
